@@ -18,7 +18,7 @@ Just remember I am a newbie to this stuff. Currently this is the first upload an
 HTML 5, CSS, JavaScript  
  
 ## Screenshots
-
+("Images/screenShot.png");
 
 ## Tech/framework used
 
