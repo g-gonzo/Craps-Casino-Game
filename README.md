@@ -26,12 +26,12 @@ HTML 5, CSS, JavaScript
 
 ## Installation
 
-Download files, make certain that images are in a folder named 'Images'
+Download files.
 
 ## How to use?
 
 This project is a very simple button driven program. Just follow the dialog text in the left panel. There is also red text button message that explains which buttons to click on next located in the center panel. 
-Some of the buttons have been placed inactive to reduce selection to the correct button choice that's needed during the game.
+Some of the buttons have been placed inactive to reduce selection to the correct button choice that's needed during the game. Viewed best on large monitor, use Chrome or FireFox browser.
 
 1. Start Game button (Welcome)
 2. Then place a bet using the Dollars, or betting buttons in the right panel.  (Place a Bet)
