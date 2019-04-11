@@ -1,0 +1,118 @@
+﻿<!DOCTYPE html>
+
+<html>
+
+  <head>
+   <meta charset="UTF-8">
+   <meta name="viewport" content="width=device-width, initial-scale=1">
+   <title>Casino Craps Game</title>
+   <link rel="stylesheet" type="text/css" href="craps.css">
+  </head>
+
+  <body>
+
+    <div class="Main_Container">
+
+       <header class="Header_Top">
+       <h1>Casino Craps!</h1>
+      </header>
+
+       <div class="TxtArea_One">
+
+           <div id="Panel_A">
+               <p id=”A”>
+                   <h2 id="TPA-1">Welcome to the Casino game of Craps!</h2>
+                   <h2 id="TPA-2">Press the Start Game button to play...</h2>
+                   <h2 id="TPA-3">.</h2>
+                   <h2 id="TPA-4">.</h2>
+                   <h2 id="TPA-5">.</h2>
+               </p>
+
+           </div>
+
+           <div id="Panel_B">
+                <p id=”B”>
+                        <h2 id="BB-1">Player's Wallet:</h2>
+                        <h2 id="BB-2">Player's Bet:</h2>
+                        <h2 id="BB-3">Casino's Bank:</h2>
+                        <h2 id="BB-4">.</h2>
+                        <h2 id="BB-5">.</h2>
+                 </p>
+           </div>
+
+           <div id="Panel_C">
+            <form id="BettingBlock_Buttons">
+
+                <input type="button" min="0" name="PlayersBet" id="Bet_5" value= "Five Dollars" > $5.00 <br>
+                <input type="button" min="0" name="PlayersBet" id="Bet_10" value= "Ten Dollars" > $10.00 <br>
+                <input type="button" min="0" name="PlayersBet" id="Bet_20" value= "Twenty Dollars"> $20.00 <br>
+
+            </form>
+
+           </div>
+
+       </div>
+
+        <div class="Dice_Block">
+
+            <div class="Spacer_1">
+            .
+            </div>
+
+            <div class="DieBlockCont_1">
+            <img id="Die_1" src="images/d007.png" alt="DieFace-ONE" style="widows: 215px;height:215px;"/> 
+            <h1 id="DieText_1">$$ Dice One $$</h1>
+            </div>
+  
+            <div class="DieBlockCont_2">
+            <img id="Die_2" src="images/d007.png" alt="DieFace-TWO" style="widows: 215px;height:215px;"/> 
+            <h1 id="DieText_2">$$ Dice Two $$</h1>
+            </div>
+
+            <div class="Spacer_2">
+             .
+            </div>
+
+            </div>
+
+            <div class="Button_Block">
+
+             <button id="Button_1" type="button">Start Game?</button>
+             <button id="Button_2" type="button">Come-Out Roll!</button>
+             <button id="Button_3" type="button">Game Roll!</button>
+             <button id="Button_4" type="button">Reset Roll?</button>
+             <button id="Button_5" type="button">Quit Game?</button>
+
+            </div>
+
+            <footer class="Bottom-Footer">
+
+                <div id="Bf_A">
+                <a href="https://twitter.com/?lang=en" target="_blank">
+                <img id="Twitter" src="images/tw.png" alt="Twitter" style="widows: 50px;height:50px;"/>
+                </a>
+                <a href="https://en-gb.facebook.com/login/" target="_blank">
+                <img id="FaceBook" src="images/fb.jpg" alt="FaceBook" style="widows: 50px;height:50px;"/>
+                </a>
+                </div>
+
+                <p id="Copy_One">Copyright &copy; Gilbert.Gonzales</p>
+
+                <div id="Bf_B">
+                <a href="https://www.pinterest.com/" target="_blank">
+                <img id="Pinterest" src="images/pin.png" alt="Pinterest" style="widows: 50px;height:50px;"/>
+                </a>
+                <a href="https://www.redditinc.com/" target="_blank">
+                <img id="Reddit" src="images/redit.jpg" alt="Reddit" style="widows: 50px;height:50px;"/>
+                </a>
+                </div> 
+
+            </footer>
+
+        </div>
+
+            <script src="craps.js"> </script>
+
+  </body>
+
+</html>

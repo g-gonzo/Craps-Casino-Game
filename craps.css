@@ -1,0 +1,206 @@
+
+/* Css Stuff Here!*/
+
+.Main_Container {
+    font-family: Arial, Helvetica, sans-serif;
+    color: white;
+    -webkit-text-stroke: 1px black;
+}
+
+body {
+    background-color: rgb(8, 8, 8);
+    border-style: double;
+    border-color: white;
+    border-width: 10px;
+}
+
+.Header_Top {
+    border-color: white;
+    border-width: 2px;
+    background-image: url("images/Banner3.jpg");
+    padding: 1px;
+    text-align: center;
+    font-size: 35px;
+}
+
+.TxtArea_One {
+    height: 350px;
+    font-size: 18px;
+    border-color: white;
+    border-style: solid;
+    border-width: 2px;
+    padding: 3px;
+}
+
+#Panel_A {
+    padding-left: 15px;
+    height: 348px;
+    width: 30%;
+    background-color: black;
+    border-color: white;
+    border-style: solid;
+    border-width: 1px;
+    border-left: 5px;
+    float: left;
+}
+
+#Panel_B {
+    padding-left: 15px;
+    height: 348px;
+    width: 20%;
+    background-color: black;
+    border-color: white;
+    border-style: solid;
+    border-width: 3px;
+    float: left;
+}
+
+#Panel_C {
+    padding-left: 30px;
+    height: 348px;
+    width: 35%;
+    background-image: url("images/dice4Banner.jpg");
+    border-color: white;
+    border-style: solid;
+    border-width: 1px;
+    border-right: 5px;
+    float: left;
+}
+
+#BB-4 {
+    color: red;
+}
+
+/* Buttons - Used for betting */
+
+#Bet_5, #Bet_10, #Bet_20 {
+    height: 50px;
+    width: 150px;
+    border-radius: 12px;
+    border-color: white;
+    border-width: 2px;
+    border-style: double;
+    font-size: medium;
+    padding: 5px;
+    margin-top: 25px;
+    margin-left: 25px;
+}
+
+.Dice_Block {
+    height: 300px;
+    border-color: white;
+    border-style: solid;
+    border-width: 3px;
+    padding: 3px;
+}
+
+.Spacer_1 {
+    height: 295px;
+    width: 18%;
+    border-color: blue;
+    border-style: solid;
+    border-left: 3px;
+    float: left;
+    background-image: url("images/Banner2.jpg");
+}
+
+.DieBlockCont_1 {
+    text-align: center;
+    height: 295px;
+    width: 30%;
+    border-color: blue;
+    border-style: solid;
+    border-width: 3px;
+    float: left;
+}
+
+.DieBlockCont_2 {
+    text-align: center;
+    height: 295px;
+    width: 30%;
+    border-color: blue;
+    border-style: solid;
+    border-width: 3px;
+    float: left;
+}
+
+.Spacer_2 {
+    height: 295px;
+    width: 18%;
+    border-color: blue;
+    border-style: solid;
+    border-right: 3px;
+    float: left;
+    background-image: url("images/Banner2.jpg");
+}
+
+/* Buttons - Used for Roll control */
+
+button {
+    height: 50px;
+    width: 150px;
+    border-color: blue;
+    border-width: 3px;
+    border-style: double;
+    border-radius: 12px;
+    font-size: medium;
+    padding: 5px;
+    margin-top: 50px;
+    margin-left: 50px;
+}
+
+.Button_Block {
+    height: 150px;
+    border-color: blue;
+    border-style: double;
+    border-width: 5px;
+    padding: 3px;
+}
+
+.Bottom-Footer {
+    height: 200px;
+    color: white;
+    border-color: red;
+    border-style: solid;
+    border-width: 5px;
+    background-image: url("images/Banner5.jpg");
+
+}
+
+/* Images/Pics - for Social Media links in Footer */
+
+#Bf_A {
+    float: left;
+    height: 145px;
+    width: 80px;
+    margin: 15px;
+}
+
+#Bf_B {
+    float: right;
+    height: 145px;
+    width: 80px;
+    margin: 15px;
+}
+
+#Twitter {
+    padding: 5px;
+}
+
+#FaceBook {
+    padding: 5px;
+}
+
+#Pinterest {
+    padding: 5px;
+    float: right;
+}
+
+#Reddit {
+    padding: 5px;
+    float: right;
+}
+
+#Copy_One {
+    text-align: center;
+}
