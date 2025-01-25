@@ -1,28 +1,21 @@
 ## Craps - The Casino Game!
 
-This is a very basic first attempt at the game of **Craps**. It uses buttons, Text display and very simplified game rule set. 
-The betting process has been dumbed down a bit, I am considering another project that will focus more on the Craps Board and the betting that this provides. 
-But that will be a much bigger project to cut some teeth on, for a later date. 
+This is a basic game of Craps.
 
 ## Motivation
 
-I am new to ‘JavaScript’, and I needed a project to cut some teeth on. Games seem to be a great way to learn programming by providing the some practical and logical problem solving opportunities. 
-I thought a dice game with two dice, how hard can that be?  It turns out that this is a very exciting game of chance, with many moving parts. As mentioned earlier, the **betting portion** alone is a project in itself. 
+New to JavaScript and needed a project to work on. 
 
 ## Build status
 
-Just remember I am a newbie to this stuff. Currently this is the first upload and there is definitely room for some improvement. 
+Works, but needs a face-lift, and some updating. 
 
-## Code style
-
-HTML 5, CSS, JavaScript  
- 
 ## Screenshots
 ![](Images/Craps_2.gif)
 
-## Tech/framework used
+## Tech/Framework
 
-(IDE) Used for this project was 'Visual Studio Code'.
+Visual Studio Code, HTML 5, CSS, JavaScript
 
 ## Installation
 
@@ -51,6 +44,6 @@ How Stuff Works https://entertainment.howstuffworks.com/playing-craps.htm
 
 ## License
 
-This is a pretty raw and simple program, if you are new to JavaScript like I am feel free to take a look at this and use it. If you are student this may help you out, review it, rewrite it, and have fun with it. I have placed this under the provisions and guidelines of MIT License. 
-
+It probably doesn’t need any kind of licensing, but in keeping with GitHub’s preferred practices and recommendations. I have placed this under the provisions and guidelines of an MIT License. 
 MIT © [Gilbert Gonzales]()
+
